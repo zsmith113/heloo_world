@@ -1,2 +1,2 @@
-# heloo_world
+# hello_world
 Part of the Learning GitHub Tutorial
